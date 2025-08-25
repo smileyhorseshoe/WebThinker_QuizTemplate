@@ -1,8 +1,8 @@
 function setup() {
     createCanvas(600,400);
 colorValue = 0;
-xpos = 0;
-ypos = 0;
+xpos = 50;
+ypos = 50;
 }
 function draw() {
 for (let count = 1; count < 10; count++) {
@@ -13,3 +13,4 @@ ypos = ypos - 50
 colorValue = colorValue + 40
 }
 }
+
