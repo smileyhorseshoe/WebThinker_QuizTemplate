@@ -6,10 +6,10 @@ ypos = 50;
 }
 function draw() {
 for (let count = 1; count < 10; count++) {
-circle(xpos,ypos,25);
+circle(xpos,ypos,55);
 fill(colorValue);
-xpos = xpos + 25;
-ypos = ypos + 25;
+xpos = xpos + 50;
+ypos = ypos + 50;
 colorValue = colorValue + 40
 }
 }
