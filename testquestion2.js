@@ -1,7 +1,7 @@
 function setup() {
     createCanvas(600,600);
-colorValue = 0;
-xpos = 50;
+let colorValue = 0;
+let xpos = 50;
 ypos = 50;
 dia = 25
 }
