@@ -6,5 +6,6 @@ function draw() {
 fill("black");
 stroke("red");
 strokeWeight(10);
-circle(300,200,100)
+circle(100,200,100)
+triangle()
 }
