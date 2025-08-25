@@ -8,5 +8,5 @@ stroke("red");
 strokeWeight(10);
 circle(100,200,100)
 triangle(200,250,400,250,300,100)
-rect(400,200,100,100)
+rect(500,250,100,100)
 }
