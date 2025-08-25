@@ -8,10 +8,9 @@ function draw() {
 for (let i = 1; i < 10; i++) {
 circle(xpos,ypos,25)
 fill(colorValue)
-xpos = xpos + 50
+xpos = xpos + 25
 ypos = ypos + 25
 colorValue = colorValue + 40
-
 }
 }
 
