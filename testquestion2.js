@@ -1,5 +1,4 @@
-let colorValue = 0;
-let dia = 25
+
 function setup() {
     createCanvas(600,600);
 }
