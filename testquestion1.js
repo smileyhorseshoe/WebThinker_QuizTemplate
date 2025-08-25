@@ -7,5 +7,5 @@ fill("black");
 stroke("red");
 strokeWeight(10);
 circle(100,200,100)
-triangle(300,200,500,200,)
+triangle(300,100,500,100,)
 }
