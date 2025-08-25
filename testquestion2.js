@@ -1,1 +1,2 @@
-colorV
+colorValue = 0
+
