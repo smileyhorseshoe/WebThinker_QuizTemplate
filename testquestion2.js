@@ -6,7 +6,7 @@ function setup() {
     createCanvas(600,600);
 }
 function draw() {
-for (let i = 1; i < 10; i++) {
+for (let i = 1; i < 11; i++) {
 circle(xpos,ypos, dia);
 fill(0,colorValue,0);
 xpos = xpos + 50;
