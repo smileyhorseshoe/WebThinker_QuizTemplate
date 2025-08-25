@@ -3,6 +3,8 @@ function setup() {
     createCanvas(600,600);
 }
 function draw() {
+let colorValue = 0;
+let dia = 25;
 let xpos = 50;
 let ypos = 50;
 for (let i = 1; i < 11; i++) {
