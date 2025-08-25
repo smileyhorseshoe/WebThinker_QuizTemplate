@@ -6,6 +6,6 @@ ypos = 0;
 }
 function draw() {
 for (let count = 1; count < 10; count++) {
-
+circle(xpos,ypos,50)
 }
 }
