@@ -3,6 +3,7 @@ function setup() {
 colorValue = 0;
 xpos = 50;
 ypos = 50;
+dia = 25
 }
 function draw() {
 for (let i = 1; i < 9; i++) {
