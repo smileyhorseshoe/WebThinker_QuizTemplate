@@ -10,6 +10,6 @@ circle(xpos,ypos,25)
 fill(colorValue)
 xpos = xpos + 50
 ypos = ypos - 50
-colorValue = colorValue
+colorValue = colorValue + 40
 }
 }
